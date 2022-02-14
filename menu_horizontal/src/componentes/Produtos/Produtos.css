@@ -1,0 +1,75 @@
+.produtos{
+    height: 99vh;
+    text-align: relative;
+    border: 1px solid rgb(12, 12, 12);
+    color: black;
+    }
+
+   .tabelaProdutos {
+        align-items: center;
+        margin-top: -2%;
+        margin-left: 2%;
+    } 
+    
+    table,th,td {
+        border: 2px solid #000;
+        border-collapse: collapse;
+    } 
+
+    #codigoProd {
+        width: 6em;
+        height: 20px;
+
+    }
+    #quantidadeProd {
+        width: 5em;
+        height: 20px;
+    }
+    #nomeProd{
+        width: 15em;
+        height: 20px;
+    }
+    #descricaoProd{
+        width: 20em;
+        height: 20px;
+    }
+    #comprimentoProd{
+        width: 3em;
+        height: 20px;
+    }
+    #larguraProd{
+        width: 3em;
+        height: 20px;
+    }
+    #profundidadeProd{
+        width: 3em;
+        height: 20px;
+    }
+    #medTotal{
+        width: 5em;
+        height: 20px;
+    }
+
+    #acabamentoProd{
+        width: 10em; 
+        height: 20px;
+    }
+    #corProd{
+        width: 8em;
+        height: 20px;
+    }
+    #valorProd{
+        width: 10em;
+        height: 20px;
+    }
+   
+
+    #tit {
+        color: grey;
+        text-align: center;
+        margin-top: 5%;
+     }
+   
+
+
+

@@ -1,0 +1,71 @@
+
+ /*
+configurações do menu principal
+*/
+.home, .orcamento, .cadastro, .caixa, .pedidos, .fichaTecnica, .produtos {
+   height: 99vh;
+   text-align: relative;
+   border: 1px solid rgb(12, 12, 12);
+   color: black; /* cor das letras no body*/
+   }
+
+   .dadosCadastro {
+      margin-left: 0%; /* margem em relação ao lado esquerdo*/
+      margin-right: 00%;
+      margin-top: -2%;
+      }
+     
+   #nome, #email {
+         width: 850px;
+         height: 1.3em;
+     }
+     
+   #email {
+      width: 950px;
+      height: 1.3em;
+  }
+
+
+   #cpf, #rg {
+      width: 250px;
+      height: 1.3em;
+    }
+
+    #dtNasc{
+      width: 150px;
+      height: 1.3em;
+    }
+
+   #logradouro {
+         width: 910px;
+         height: 1.3em;
+      }
+   #numero{
+         width: 50px;
+         height: 1.3em;
+      }
+   #uf{
+         width: 20px;
+         height: 1.3em;
+      }
+ 
+   #sexo {
+            margin-left: 1300px; 
+            margin-right: 0%;
+            margin-top: -39%;
+         }
+         
+   #pessoa {
+            margin-left: 1200px; 
+            margin-right: 0%;
+            margin-top: -38%;
+         }
+
+   #tit {
+            color: grey;
+            text-align: center
+   
+   }
+
+
+ 

@@ -1,0 +1,112 @@
+.pedido{
+    height: 99vh;
+    text-align: relative;
+    border: 1px solid rgb(12, 12, 12);
+    color: black;
+    }
+
+.tabelaPedido {
+    align-items: center;
+    margin-top: -2%;
+    margin-left: 5%;
+} 
+
+
+#ordem {
+    width: 40px;
+    height: 20px;
+}
+
+table,th,td {
+    border: 2px solid #000;
+    border-collapse: collapse;
+} 
+
+
+#item {
+    width: 2em;
+    height: 20px;
+
+}
+#quantidade {
+    width: 5em;
+    height: 20px;
+}
+#produto{
+    width: 15em;
+    height: 20px;
+}
+
+#acabamento{
+    width: 10em; 
+    height: 20px;
+}
+#cor{
+    width: 10em;
+    height: 20px;
+}
+#valorunit{
+    width: 15em;
+    height: 20px;
+}
+#valortotal{
+    width: 15em;
+    height: 20px;
+}
+#imagemP{
+    width: 1250px;
+    height: 150px;
+    margin-left: 5%
+}
+
+#titPed {
+    color: grey;
+    text-align: center;
+    margin-top: 5%;
+    }
+
+    .dados{
+    margin-top: -2%;
+    margin-left: 10%
+
+    }
+    #clN {
+    margin-top: 0%;
+    margin-left: 10%;
+
+    }
+#PedN{
+    margin-top: -1%;
+    margin-left: 10%;
+
+}
+#matPrima {
+    width: 7em;
+    height: 20px;
+
+}
+#comprim{
+    width: 4em;
+    height: 20px;
+}
+#larg{
+    width: 3em;
+    height: 20px;
+}
+#profund{
+    width: 3em;
+    height: 20px;
+}
+#ordem {
+    width: 2em;
+    height: 20px;
+
+}
+#status {
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+
+
+

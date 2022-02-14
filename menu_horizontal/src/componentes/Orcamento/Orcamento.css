@@ -1,0 +1,95 @@
+
+.orcamento{
+    
+    height: 99vh;
+    text-align: relative;
+    border: 1px solid rgb(12, 12, 12);
+    color: black;
+
+}
+
+.dadosOrcam {
+    margin-left: 10%; 
+    margin-right: 5%;
+    margin-top: -1%
+}
+
+#cliente {
+    width: 800px;
+    height: 1.3em;
+    margin-left: 10%; 
+}
+#endereco {
+    width: 800px;
+    height: 1.3em;
+    margin-left: 10%; 
+}
+
+    
+#telefone1, #telefone2, #telefone3{
+    margin-left: 10%; 
+    width: 10em;
+    height: 1.3em;
+}
+
+
+.tabelaProd {
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 5%;
+} 
+
+table,th,td {
+    border: 2px solid #000;
+    border-collapse: collapse;
+} 
+
+#itemOr {
+    width: 2em;
+    height: 20px;
+
+}
+#quantidadeOr {
+    width: 5em;
+    height: 20px;
+}
+#produtoOr{
+    width: 15em;
+    height: 20px;
+}
+#dimensoes{
+    width: 10em;
+    height: 20px;
+}
+#acabamentoOr{
+    width: 6em; 
+    height: 20px;
+}
+#corOr{
+    width: 6em;
+    height: 20px;
+}
+#valorunitOr{
+    width: 30px;
+    height: 20px;
+}
+#valortotalOr{
+    width: 10em;
+    height: 20px;
+}
+
+#imagemOr {
+    width: 1200px;
+    height: 300px;
+   
+}
+#imgOr{
+    margin-left: 0%;
+
+}
+
+#titOr {
+    color: grey;
+    text-align: center;
+    margin-top: 3%;
+    }

@@ -1,0 +1,29 @@
+/*
+configurações do menu principal
+*/
+    .home, .orcamento, .cadastro, .caixa, .pedidos, .fichaTecnica, .produtos {
+        text-align: relative;
+        border: 1px solid black;
+    }
+    
+    .inicio {
+        height: 99vh;
+        text-align: relative;
+        border: 1px solid rgb(12, 12, 12);
+        color: black;
+    }
+      
+    #logo {
+        width: 800px;
+        height: 400px;
+        margin-left: 330px;
+        margin-top: 70px;
+    }
+
+    .grupo{
+        margin-left: 600px;
+        margin-top: 30px;
+        width: 250px;
+        height: 50px;
+
+    } 

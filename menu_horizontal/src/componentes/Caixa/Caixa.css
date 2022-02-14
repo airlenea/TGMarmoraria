@@ -1,0 +1,80 @@
+.caixa{
+   height: 99vh;
+   text-align: relative;
+   border: 1px solid rgb(12, 12, 12);
+   color: black;
+   }
+
+.movimento {
+      margin-left: 00%; 
+      margin-right: 0%;
+      margin-top: 2%
+      }
+      
+
+.tabelaoperacao {
+       align-items: center;
+       margin-top: 10px;
+       margin-left: 10%;
+   } 
+   
+.resumoEntrada {
+      align-items: center;
+      margin-top: 200px;
+      margin-left: 10%;
+  } 
+
+  .fechamento {
+   align-items: center;
+   margin-top: -12%;
+   margin-left: 70%;
+} 
+
+table,th,td {
+       border: 2px solid #000;
+       border-collapse: collapse;
+   } 
+
+#data {
+    height: 20px;
+
+}
+#operacao {
+    width: 5em;
+    height: 20px;
+}
+#referencia{
+    width: 10em;
+    height: 20px;
+}
+#docRef{
+    width: 7em;
+    height: 20px;
+}
+#condPagto{
+    width: 8em; 
+    height: 20px;
+}
+#formaOper{
+    width: 10em;
+    height: 20px;
+}
+#parcela{
+    width: 5em;
+    height: 20px;
+}
+#valor{
+    width: 15em;
+    height: 20px;
+}
+#imagem{
+    width: 1275px;
+    height: 290px;
+}
+
+#tit {
+    margin-top: 10%;
+    color: grey;
+    text-align: center;
+}
+  

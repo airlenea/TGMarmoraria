@@ -1,0 +1,63 @@
+.fichaTecnica{
+    height: 97vh;
+    text-align: relative;
+    border: 1px solid rgb(12, 12, 12);
+    color: black;
+    }
+
+    .tabelaGastos {
+        align-items: center;
+        margin-top: 2%;
+        margin-left: 5%;
+    } 
+    
+    .tabelaChecklist {
+        align-items: center;
+        margin-top: -17%;
+        margin-left: 75%;
+    } 
+    table,th,td {
+        border: 2px solid #000;
+        border-collapse: collapse;
+    } 
+
+    #itemGasto {
+        width: 5em;
+        height: 20px;
+
+    }
+    #quantidadeGasto {
+        width: 2em;
+        height: 20px;
+    }
+    
+    #valorunitGasto{
+        width: 5em;
+        height: 20px;
+    }
+    #valortotalGasto{
+        width: 8em;
+        height: 20px;
+    }
+   
+    #titFT {
+        color: grey;
+        text-align: center;
+        margin-top: 50px;
+     }
+
+    .tabelaEtapas {
+        align-items: center;
+        margin-top: 6.5%;
+        margin-left: 5%;
+    }
+   #etapa1, #etapa2,#etapa3, #etapa4, #etapa5, #etapa6, #etapa7, #etapa8, #etapa9{
+        width: 30em;
+        height: 40px;
+        color: rgb(66, 64, 64);
+        border: 2px solid rgb(12, 12, 12);
+
+   }
+
+
+
